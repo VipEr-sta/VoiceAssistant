@@ -4,11 +4,7 @@ import playsound
 import speech_recognition as sr
 from gtts import gTTS
 
-# __future__ module must be at the top
 
-
-# If modifying these scopes, delete the file token.pickle.
-SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
 
 def speak(text):
