@@ -1,5 +1,5 @@
 # VoiceAssistant
-I just started this project. There is no OOP yet but this code will be refactored soon.
+I just started this project. This code will be refactored soon.
 
 # Setup
 
